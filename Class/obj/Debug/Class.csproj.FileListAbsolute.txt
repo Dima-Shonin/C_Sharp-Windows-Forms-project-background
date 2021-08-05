@@ -1,0 +1,28 @@
+c:\users\11478.itstep\documents\visual studio 2015\Projects\Class\Class\bin\Debug\Class.exe.config
+c:\users\11478.itstep\documents\visual studio 2015\Projects\Class\Class\bin\Debug\Class.exe
+c:\users\11478.itstep\documents\visual studio 2015\Projects\Class\Class\bin\Debug\Class.pdb
+c:\users\11478.itstep\documents\visual studio 2015\Projects\Class\Class\obj\Debug\Class.csprojResolveAssemblyReference.cache
+c:\users\11478.itstep\documents\visual studio 2015\Projects\Class\Class\obj\Debug\Class.Form1.resources
+c:\users\11478.itstep\documents\visual studio 2015\Projects\Class\Class\obj\Debug\Class.Properties.Resources.resources
+c:\users\11478.itstep\documents\visual studio 2015\Projects\Class\Class\obj\Debug\Class.csproj.GenerateResource.Cache
+c:\users\11478.itstep\documents\visual studio 2015\Projects\Class\Class\obj\Debug\Class.exe
+c:\users\11478.itstep\documents\visual studio 2015\Projects\Class\Class\obj\Debug\Class.pdb
+C:\Users\11925\Desktop\Class\Class\bin\Debug\Class.exe.config
+C:\Users\11925\Desktop\Class\Class\obj\Debug\Class.exe
+C:\Users\11925\Desktop\Class\Class\obj\Debug\Class.pdb
+C:\Users\11925\Desktop\Class\Class\bin\Debug\Class.exe
+C:\Users\11925\Desktop\Class\Class\bin\Debug\Class.pdb
+C:\Users\11925\Desktop\Class\Class\obj\Debug\Class.csprojResolveAssemblyReference.cache
+C:\Users\11925\Desktop\Class\Class\obj\Debug\Class.Form1.resources
+C:\Users\11925\Desktop\Class\Class\obj\Debug\Class.Properties.Resources.resources
+C:\Users\11925\Desktop\Class\Class\obj\Debug\Class.csproj.GenerateResource.Cache
+C:\Users\Dima\Desktop\Class\Class\bin\Debug\Class.exe.config
+C:\Users\Dima\Desktop\Class\Class\bin\Debug\Class.exe
+C:\Users\Dima\Desktop\Class\Class\bin\Debug\Class.pdb
+C:\Users\Dima\Desktop\Class\Class\obj\Debug\Class.csprojAssemblyReference.cache
+C:\Users\Dima\Desktop\Class\Class\obj\Debug\Class.Form1.resources
+C:\Users\Dima\Desktop\Class\Class\obj\Debug\Class.Properties.Resources.resources
+C:\Users\Dima\Desktop\Class\Class\obj\Debug\Class.csproj.GenerateResource.cache
+C:\Users\Dima\Desktop\Class\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\Class\Class\obj\Debug\Class.exe
+C:\Users\Dima\Desktop\Class\Class\obj\Debug\Class.pdb
